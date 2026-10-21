@@ -3,3 +3,4 @@
 0.0.0.0 b52.club
 0.0.0.0 tip.club
 0.0.0.0 vip79.com
+0.0.0.0 adsterra.com
